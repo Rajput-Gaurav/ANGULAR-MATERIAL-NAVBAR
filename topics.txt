@@ -1,3 +1,13 @@
 Installation:
 Angular Material for version 6:-
 ng add @angular/material@6.4.7
+
+Add Material Modules:-
+MatToolBarModule
+MatIconModule
+MatButtonModule
+
+For Generating Routing Module:-
+ng g m app-routing
+
+
