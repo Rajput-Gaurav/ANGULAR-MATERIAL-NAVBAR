@@ -1,0 +1,3 @@
+Installation:
+Angular Material for version 6:-
+ng add @angular/material@6.4.7
